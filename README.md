@@ -1,0 +1,1 @@
+Assuming I did this README correctly, I will be using my HTML skills I learned with The Odin Project to: Accent words in various ways such as italics and bolding words in a header or paragraph, put items in either an unordered list or an ordered list, create links to other pages and insert images into a document.
