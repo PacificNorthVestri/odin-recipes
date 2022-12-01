@@ -1,0 +1,21 @@
+/*style.css*/
+    h1{
+        text-align: center;
+        color: rgb(173, 48, 26);
+        font-size: 50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    img{
+        height: auto;
+        width: 500px;
+    }
+    h3{
+        text-align: center;
+        color: black;
+        font-size: 15px;
+    }
+    h2{
+        text-align: left;
+        color: rgb(173, 48, 26);
+        font-size: 20px;
+    }

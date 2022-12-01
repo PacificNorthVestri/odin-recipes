@@ -1,0 +1,23 @@
+/*style.css*/
+    img{
+        height: auto;
+        width: 500px;
+    }
+    h1{
+        color: whitesmoke;
+        background-color: black;
+        text-align: center;
+        font-size: 50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h3{
+        color: black;
+        text-align: center;
+        font-size: 15px;
+    }
+    h2{
+        color: whitesmoke;
+        background-color: black;
+        text-align: left;
+        font-size: 20px;
+    }
