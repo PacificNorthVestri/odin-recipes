@@ -3,23 +3,35 @@
         color: rgb(231, 170, 89);
         text-align: center;
         font-size: 50px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
     img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
         height: auto;
         width: 700px;
+        
     }
     h2{
         color: rgb(216, 146, 54);
         text-align: left;
         font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
     }
     h3{
         text-align: center;
         color: black;
         font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
     }
+
     #Home{
+        font-family: Georgia, 'Times New Roman', Times, serif;
         text-align:right
-        
+    }
+
+    *{
+        background-color: #444546;
+        color: #6b0906;
     }
