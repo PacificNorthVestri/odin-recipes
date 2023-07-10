@@ -25,6 +25,7 @@
         font-family: 'Courier New', Courier, monospace;
     }
     #Home{
+        color: rgb(196, 140, 19);
         font-family: Georgia, 'Times New Roman', Times, serif;
         text-align:right
     }

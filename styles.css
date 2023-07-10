@@ -7,13 +7,27 @@
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
 
-    ul{
+    *{
+        font-size: 50px;
+        background-color: #444546;
+    }
+
+    .chicken{
+        margin: 5px;
+        margin-bottom: 10px;
         color: rgb(30, 30, 224);
-        text-align: left;
-        font-size: 30px;
         font-family: 'Courier New', Courier, monospace;
     }
 
-    *{
-        background-color: #444546;
+    .cereal{
+        margin: 5px;
+        margin-bottom: 10px;
+        color: rgb(30, 30, 224);
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .cheese{
+        margin: 5px;
+        color: rgb(30, 30, 224);
+        font-family: 'Courier New', Courier, monospace;
     }
